@@ -1,0 +1,3 @@
+# Ignorar a pasta .env
+env/
+teste_local/
