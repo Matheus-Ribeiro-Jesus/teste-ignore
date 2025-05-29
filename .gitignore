@@ -1,3 +1,8 @@
 # Ignorar a pasta .env
 env/
 teste_local/
+
+**/exemplo*.txt
+
+**/config.properties
+**/*.html
